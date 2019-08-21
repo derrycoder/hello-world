@@ -1,3 +1,3 @@
 # hello-world
 This is my first repository
-And he is some new code added to this.
+And here is some new code added to this.
